@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        applicationId "com.wawoo.mobile"
+        minSdkVersion 11
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.google.code.gson:gson:2.2.4'
+    compile 'com.android.support:appcompat-v7:21.0.3'
+    compile files('libs/acra-4.5.0.jar')
+    compile files('libs/PayPalAndroidSDK.jar')
+    compile files('libs/retrofit-1.4.1.jar')
+    compile files('libs/universal-image-loader-1.9.1.jar')
+}

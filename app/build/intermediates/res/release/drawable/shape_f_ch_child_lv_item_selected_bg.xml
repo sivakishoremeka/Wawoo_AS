@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <gradient
+        android:angle="90"
+         android:endColor="#FFFFFF"
+        android:startColor="#FFFFFF" />
+<!--  android:endColor="#A4ACC8"
+        android:startColor="#E4F4FA" /> -->
+    <corners
+        android:bottomLeftRadius="3dp"
+        android:bottomRightRadius="3dp"
+        android:topLeftRadius="3dp"
+        android:topRightRadius="3dp" />
+
+</shape><!-- From: file:/D:/Hugo/Projects/AndroidStudio_Client_WorkSapce/Wawoo/app/src/main/res/drawable/shape_f_ch_child_lv_item_selected_bg.xml -->

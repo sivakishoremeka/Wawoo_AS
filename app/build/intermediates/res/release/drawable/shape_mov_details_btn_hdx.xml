@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:shape="rectangle">
+    <solid android:color="#DF2D3A"/>
+    <corners android:radius="3dip"/>
+    <stroke android:color="#DF2D3A" android:width="10dp"/>  
+</shape>
+<!-- From: file:/D:/Hugo/Projects/AndroidStudio_Client_WorkSapce/Wawoo/app/src/main/res/drawable/shape_mov_details_btn_hdx.xml -->

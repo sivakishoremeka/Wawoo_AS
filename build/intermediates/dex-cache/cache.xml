@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Hugo\Projects\AndroidStudio_Client_WorkSapce\Wawoo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Hugo\Projects\AndroidStudio_Client_WorkSapce\Wawoo\app\build\intermediates\pre-dexed\release\classes-153108bfdf4af2711906de2d99715b745bda4c2b.jar" />
+    </item>
+    <item
+        jar="D:\Hugo\Projects\AndroidStudio_Client_WorkSapce\Wawoo\app\libs\acra-4.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44a5eb946e0d83eed4a0128d877ca1fd8168b83a">
+        <dex dex="D:\Hugo\Projects\AndroidStudio_Client_WorkSapce\Wawoo\app\build\intermediates\pre-dexed\release\acra-4.5.0-6846a401a970af18ab66528d64e08bea1b946fbc.jar" />
+    </item>
+    <item
+        jar="D:\Hugo\Projects\AndroidStudio_Client_WorkSapce\Wawoo\app\libs\retrofit-1.4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="23de973a4908bc6f5ac6524af3251a19ad81a7b1">
+        <dex dex="D:\Hugo\Projects\AndroidStudio_Client_WorkSapce\Wawoo\app\build\intermediates\pre-dexed\release\retrofit-1.4.1-271a63f1f7bf02fd87a7fc2dd43ca2ee31dbc66a.jar" />
+    </item>
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Hugo\Projects\AndroidStudio_Client_WorkSapce\Wawoo\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-704a340b9af7bcb3c02ad95d5aa67056e7d6206d.jar" />
+    </item>
+    <item
+        jar="D:\Hugo\Projects\AndroidStudio_Client_WorkSapce\Wawoo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Hugo\Projects\AndroidStudio_Client_WorkSapce\Wawoo\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-9819442636df747c9cf0e3daa1a166f83ef474ea.jar" />
+    </item>
+    <item
+        jar="D:\Hugo\Projects\AndroidStudio_Client_WorkSapce\Wawoo\app\libs\universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d2a1c7db3817af8381daa80201bc549be3e884c5">
+        <dex dex="D:\Hugo\Projects\AndroidStudio_Client_WorkSapce\Wawoo\app\build\intermediates\pre-dexed\release\universal-image-loader-1.9.1-bff917e352997a78aa751565afb9e001937d5b14.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kishore\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\Hugo\Projects\AndroidStudio_Client_WorkSapce\Wawoo\app\build\intermediates\pre-dexed\release\gson-2.2.4-132e482e863e881752ea2d540efc64b0a4186e60.jar" />
+    </item>
+    <item
+        jar="D:\Hugo\Projects\AndroidStudio_Client_WorkSapce\Wawoo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Hugo\Projects\AndroidStudio_Client_WorkSapce\Wawoo\app\build\intermediates\pre-dexed\release\classes-f26e1f05ad7596c58729d43e246d6c537b789ac0.jar" />
+    </item>
+    <item
+        jar="D:\Hugo\Projects\AndroidStudio_Client_WorkSapce\Wawoo\app\libs\PayPalAndroidSDK.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5d822f650e1f75b4ce23610bdf4b37f8116a1d4">
+        <dex dex="D:\Hugo\Projects\AndroidStudio_Client_WorkSapce\Wawoo\app\build\intermediates\pre-dexed\release\PayPalAndroidSDK-817f631abe2293a46d464870b4f1c38dce934b30.jar" />
+    </item>
+
+</items>
